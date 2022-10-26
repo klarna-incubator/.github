@@ -1,0 +1,11 @@
+{
+  "name": "NPM Deployment Workflow",
+  "description": "Publish node package to NPM.",
+  "iconName": "npm-deployment",
+  "categories": [
+    "Node"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
